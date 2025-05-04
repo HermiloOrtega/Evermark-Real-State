@@ -1,65 +1,87 @@
-# 📦 Evermark Real Estate
+# **Evermark Real Estate**  
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+## 🧭 Overview  
+**Evermark Real Estate** is a dynamic and modern real estate website built with **WordPress** and powered by the **MyRealPage MLS** plugin. Designed for a high-volume real estate business, it showcases MLS property listings through both **map** and **list views**, featuring detailed listing pages and lead capture forms.
 
-## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+---
 
-## ✨ Features & Functionality
-- Bullet list of main features 
+## 💡 Idea & Concept  
+The purpose of this project was to establish a **high-performance, content-rich real estate platform** to allow users to seamlessly browse MLS listings, learn more about agents, and contact the brokerage for exclusive opportunities.
 
-## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+---
 
-## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+## ✨ Features & Functionality  
+- Integration with **MyRealPage MLS** listing plugin  
+- **Map view** and **list view** of properties  
+- Custom-designed **listing detail pages**  
+- Search by location, price, or custom filters  
+- Custom forms tied to **HubSpot CRM**  
+- SEO-optimized pages for cities, agents, and communities  
+- Ongoing maintenance for plugin, theme, and PHP updates  
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+---
 
-- **Installation Steps:** 
+## ⚙️ Tech Stack  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Deployment Environment:** 
+---
 
-- **Access:** 
+## 🏗 Architecture & Design  
+- Built using **WordPress + Elementor** with **customized PHP modules**  
+- Utilized MyRealPage APIs for dynamic property data  
+- Search engine optimized city and community pages  
+- Agent landing pages linked to individual CRM lead capture  
+- Mobile-first responsive design  
 
-> **Note:** 
+---
 
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
+## 🚀 Installation & Setup  
+1. Site deployed on a **dedicated server managed by Epic Inspired**  
+2. Installed WordPress, Elementor, MyRealPage plugin  
+3. Custom PHP added to extend plugin functionality  
+4. DNS, SSL, and CDN configured for high availability  
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+---
 
-## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+## 🧑‍💻 My Role & Contributions  
+- 🔧 Customized the MyRealPage plugin for listing performance  
+- 🧪 Maintained server and WordPress backend  
+- ✍️ Created and updated dynamic pages with Elementor  
+- 🗺️ Enhanced UX for listing discovery via interactive map  
+- 🧰 Managed plugin/theme conflicts and long-term maintenance  
 
-## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
+---
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+## 🧗 Challenges & Learnings  
+- Ensuring fast load times for high-traffic listing pages  
+- Customizing API listing logic without breaking updates  
+- Balancing UX for both desktop and mobile real estate searches  
+- Working with proprietary plugin architecture from MyRealPage  
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+---
 
-## 🔗 Additional Resources
-- **Documentation:** 
+## 📈 Future Enhancements  
+- Add mortgage calculator with real-time financial API  
+- Enhance listing pages with 3D virtual tours  
+- Launch client dashboard for saved searches and alerts  
 
-- **Related Projects:** 
+---
 
-- **Live Demo Link:** 
+## 🤝 Contributing  
+Not an open-source project. Managed exclusively by the Epic Inspired development team.
+
+---
+
+## 🪪 License  
+All designs and content belong to Evermark Real Estate. Reproduction is prohibited.
+
+---
+
+## 🔗 Additional Resources  
+- [Epic Inspired Project Dashboard](../GitHubDashboard.md)  
+- [Related Project: Clarendon Heights](../ClarendonHeights.md)  
+- [Related Project: Virani](../Virani.md)  
